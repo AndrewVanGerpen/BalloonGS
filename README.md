@@ -3,6 +3,9 @@
 
 looks as follows:
 user= USERNAME
+
 password= PASSWORD
+
 host= HOST
+
 database= DATABASE
